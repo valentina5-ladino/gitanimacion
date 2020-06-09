@@ -1,0 +1,69 @@
+
+.h2{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.uno{ 
+    position: absolute;
+    z-index:12 ;
+    
+}
+.dos{ 
+    position: absolute;
+    z-index:12;
+}
+.tres{ 
+    position: absolute;
+    z-index:3 ;
+}
+.cuatro{ 
+    position: absolute;
+    z-index:3 ;
+}
+.cinco{ 
+    position: absolute;
+    z-index:2;
+}
+.seis{ 
+    position: absolute;
+    z-index:3 ;
+}
+.siete{ 
+    position: absolute;
+    z-index:3 ;
+}
+.ocho{ 
+    position: absolute;
+    z-index:3 ;
+}
+
+.nueve{ 
+    position: absolute;
+    z-index:3 ;
+}
+.tiempo1{
+    animation-delay: 0s;
+}
+.tiempo2{
+    animation-delay: 0,5s;
+}
+.tiempo3{
+    animation-delay: 1,5s;
+}
+.tiempo4{
+    animation-delay: 2,5s;
+}
+.tiempo5{
+    animation-delay: 2,5s;
+}
+.tiempo6{
+    animation-delay: 2,5s;
+}
+.tiempo7{
+    animation-delay: 2,5s;
+}
+.tiempo8{
+    animation-delay: 2,5s;
+}
+.tiempo9{
+    animation-delay: 2,5s;
+}
